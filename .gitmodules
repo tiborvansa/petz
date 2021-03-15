@@ -1,0 +1,21 @@
+[submodule "mobkit"]
+	path = mobkit
+	url = https://github.com/TheTermos/mobkit.git
+[submodule "wildlife"]
+	path = wildlife
+	url = https://github.com/TheTermos/wildlife.git
+[submodule "aerotest"]
+	path = aerotest
+	url = https://github.com/berengma/aerotest.git
+[submodule "water_life"]
+	path = water_life
+	url = https://github.com/berengma/water_life.git
+[submodule "better_fauna"]
+	path = better_fauna
+	url = https://github.com/ElCeejo/better_fauna.git
+[submodule "biome_spawn"]
+	path = biome_spawn
+	url = https://github.com/tiborvansa/minetest-biome_spawn.git
+[submodule "mob_core"]
+	path = mob_core
+	url = https://github.com/tiborvansa/minetest-mob_core.git
