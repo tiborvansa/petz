@@ -285,7 +285,7 @@ minetest.register_craft({
 	replacements = {{ "group:food_milk", "bucket:bucket_empty"}},
 })
 
-minetest.register_alias("petz:cheese", "mobs:cheese")
+--minetest.register_alias("petz:cheese", "mobs:cheese")
 
 minetest.register_craftitem("petz:blueberry_cheese_cake", {
 	description = S("Blueberry Cheese Cake"),
